@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vishpatel24
-- 👀 I’m interested in Co-op(Summer2023)
 - 🌱 I’m currently learning AWS 
 - 📫 How to reach me vishpatel24@outlook.com 
 
