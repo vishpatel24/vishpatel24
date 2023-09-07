@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishpatel24
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me vishpatel24@outlook.com 
 
 
